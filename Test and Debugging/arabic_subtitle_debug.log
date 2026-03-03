@@ -1,0 +1,372 @@
+2026-03-03 05:25:58,564 - INFO - ======================================================================
+2026-03-03 05:25:58,564 - INFO - Arabic Subtitle AI Server - DEBUG VERSION
+2026-03-03 05:25:58,564 - INFO - ======================================================================
+2026-03-03 05:25:58,564 - INFO - Extensive logging enabled - Check console and arabic_subtitle_debug.log
+2026-03-03 05:25:58,565 - INFO - ======================================================================
+2026-03-03 05:25:58,565 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:25:58,565 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:25:58,565 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:25:58,566 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:25:58,566 - INFO - ✅ Initial cache found: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:25:58,566 - INFO - ============================================================
+2026-03-03 05:25:58,566 - INFO - MANUAL CACHE CHECK
+2026-03-03 05:25:58,566 - INFO - ============================================================
+2026-03-03 05:25:58,567 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:25:58,567 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:25:58,567 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:25:58,567 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:25:58,568 - INFO - Total folders in cache: 1
+2026-03-03 05:25:58,568 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:25:58,568 - DEBUG -     Files found: []
+2026-03-03 05:25:58,568 - DEBUG -     Numbered files (0): []
+2026-03-03 05:25:58,569 - DEBUG -     Has cache: False
+2026-03-03 05:25:58,569 - DEBUG -     Has bitfield: False
+2026-03-03 05:25:58,569 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:25:58,569 - INFO - Video folders detected: 0
+2026-03-03 05:25:58,570 - WARNING - No video folders found!
+2026-03-03 05:25:58,570 - INFO - ============================================================
+2026-03-03 05:25:58,571 - INFO - 🔍 Watcher started
+2026-03-03 05:25:58,571 - INFO - ✅ Watcher started
+2026-03-03 05:25:58,571 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:25:58,571 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:25:58,572 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:25:58,572 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:25:58,572 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:25:58,573 - DEBUG -     Files found: []
+2026-03-03 05:25:58,574 - DEBUG -     Numbered files (0): []
+2026-03-03 05:25:58,574 - DEBUG -     Has cache: False
+2026-03-03 05:25:58,574 - DEBUG -     Has bitfield: False
+2026-03-03 05:25:58,575 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:25:58,741 - INFO - 🌐 Opening http://localhost:8000
+2026-03-03 05:25:58,742 - INFO - ======================================================================
+2026-03-03 05:25:58,745 - DEBUG - Using proactor: IocpProactor
+2026-03-03 05:26:03,582 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:03,582 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:03,582 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:03,582 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:03,583 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:03,583 - DEBUG -     Files found: []
+2026-03-03 05:26:03,583 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:03,583 - DEBUG -     Has cache: False
+2026-03-03 05:26:03,585 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:03,585 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:08,595 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:08,595 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:08,595 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:08,595 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:08,596 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:08,596 - DEBUG -     Files found: []
+2026-03-03 05:26:08,596 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:08,597 - DEBUG -     Has cache: False
+2026-03-03 05:26:08,597 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:08,597 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:13,601 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:13,601 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:13,602 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:13,602 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:13,602 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:13,602 - DEBUG -     Files found: []
+2026-03-03 05:26:13,603 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:13,603 - DEBUG -     Has cache: False
+2026-03-03 05:26:13,603 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:13,603 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:18,608 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:18,608 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:18,609 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:18,609 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:18,610 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:18,610 - DEBUG -     Files found: []
+2026-03-03 05:26:18,610 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:18,610 - DEBUG -     Has cache: False
+2026-03-03 05:26:18,611 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:18,611 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:23,615 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:23,615 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:23,616 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:23,616 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:23,617 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:23,617 - DEBUG -     Files found: []
+2026-03-03 05:26:23,617 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:23,618 - DEBUG -     Has cache: False
+2026-03-03 05:26:23,618 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:23,618 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:28,626 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:28,626 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:28,627 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:28,627 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:28,627 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:28,627 - DEBUG -     Files found: []
+2026-03-03 05:26:28,628 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:28,628 - DEBUG -     Has cache: False
+2026-03-03 05:26:28,628 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:28,628 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:33,633 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:33,633 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:33,633 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:33,633 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:33,634 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:33,634 - DEBUG -     Files found: []
+2026-03-03 05:26:33,634 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:33,634 - DEBUG -     Has cache: False
+2026-03-03 05:26:33,634 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:33,635 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:38,639 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:38,639 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:38,640 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:38,640 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:38,640 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:38,640 - DEBUG -     Files found: []
+2026-03-03 05:26:38,641 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:38,641 - DEBUG -     Has cache: False
+2026-03-03 05:26:38,641 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:38,641 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:43,657 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:43,657 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:43,657 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:43,657 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:43,658 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:43,658 - DEBUG -     Files found: []
+2026-03-03 05:26:43,658 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:43,659 - DEBUG -     Has cache: False
+2026-03-03 05:26:43,659 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:43,659 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:48,661 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:48,661 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:48,661 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:48,661 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:48,662 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:48,662 - DEBUG -     Files found: []
+2026-03-03 05:26:48,663 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:48,663 - DEBUG -     Has cache: False
+2026-03-03 05:26:48,663 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:48,663 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:53,672 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:53,672 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:53,673 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:53,673 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:53,673 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:53,673 - DEBUG -     Files found: []
+2026-03-03 05:26:53,674 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:53,674 - DEBUG -     Has cache: False
+2026-03-03 05:26:53,674 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:53,674 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:26:58,676 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:26:58,676 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:26:58,677 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:58,677 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:26:58,677 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:26:58,678 - DEBUG -     Files found: []
+2026-03-03 05:26:58,678 - DEBUG -     Numbered files (0): []
+2026-03-03 05:26:58,678 - DEBUG -     Has cache: False
+2026-03-03 05:26:58,678 - DEBUG -     Has bitfield: False
+2026-03-03 05:26:58,679 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:03,682 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:03,682 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:03,682 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:03,682 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:03,683 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:03,683 - DEBUG -     Files found: []
+2026-03-03 05:27:03,683 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:03,683 - DEBUG -     Has cache: False
+2026-03-03 05:27:03,683 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:03,683 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:08,697 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:08,697 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:08,697 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:08,697 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:08,698 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:08,698 - DEBUG -     Files found: []
+2026-03-03 05:27:08,698 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:08,699 - DEBUG -     Has cache: False
+2026-03-03 05:27:08,699 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:08,699 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:13,713 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:13,713 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:13,713 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:13,713 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:13,714 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:13,714 - DEBUG -     Files found: []
+2026-03-03 05:27:13,714 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:13,715 - DEBUG -     Has cache: False
+2026-03-03 05:27:13,715 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:13,715 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:18,718 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:18,718 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:18,719 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:18,719 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:18,719 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:18,719 - DEBUG -     Files found: []
+2026-03-03 05:27:18,720 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:18,720 - DEBUG -     Has cache: False
+2026-03-03 05:27:18,720 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:18,720 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:23,733 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:23,733 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:23,734 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:23,734 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:23,735 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:23,735 - DEBUG -     Files found: []
+2026-03-03 05:27:23,735 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:23,735 - DEBUG -     Has cache: False
+2026-03-03 05:27:23,735 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:23,736 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:28,738 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:28,738 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:28,739 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:28,739 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:28,739 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:28,739 - DEBUG -     Files found: []
+2026-03-03 05:27:28,740 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:28,740 - DEBUG -     Has cache: False
+2026-03-03 05:27:28,740 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:28,740 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:33,746 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:34,697 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:34,699 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:34,700 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:34,702 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:34,704 - DEBUG -     Files found: []
+2026-03-03 05:27:34,705 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:34,706 - DEBUG -     Has cache: False
+2026-03-03 05:27:34,707 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:34,708 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:39,710 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:39,710 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:39,711 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:39,711 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:39,712 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:39,712 - DEBUG -     Files found: []
+2026-03-03 05:27:39,712 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:39,712 - DEBUG -     Has cache: False
+2026-03-03 05:27:39,713 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:39,713 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:44,715 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:44,715 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:44,716 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:44,716 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:44,716 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:44,717 - DEBUG -     Files found: []
+2026-03-03 05:27:44,717 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:44,717 - DEBUG -     Has cache: False
+2026-03-03 05:27:44,717 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:44,718 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:49,732 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:49,732 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:49,734 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:49,734 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:49,735 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:49,735 - DEBUG -     Files found: []
+2026-03-03 05:27:49,735 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:49,735 - DEBUG -     Has cache: False
+2026-03-03 05:27:49,736 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:49,736 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:54,750 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:54,750 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:54,751 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:54,751 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:54,752 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:54,752 - DEBUG -     Files found: []
+2026-03-03 05:27:54,753 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:54,753 - DEBUG -     Has cache: False
+2026-03-03 05:27:54,753 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:54,753 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:27:59,758 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:27:59,758 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:27:59,759 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:59,759 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:27:59,760 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:27:59,760 - DEBUG -     Files found: []
+2026-03-03 05:27:59,760 - DEBUG -     Numbered files (0): []
+2026-03-03 05:27:59,760 - DEBUG -     Has cache: False
+2026-03-03 05:27:59,760 - DEBUG -     Has bitfield: False
+2026-03-03 05:27:59,761 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:04,767 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:04,767 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:04,768 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:04,768 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:04,769 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:04,769 - DEBUG -     Files found: []
+2026-03-03 05:28:04,769 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:04,769 - DEBUG -     Has cache: False
+2026-03-03 05:28:04,770 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:04,770 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:09,779 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:09,779 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:09,780 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:09,780 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:09,781 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:09,781 - DEBUG -     Files found: []
+2026-03-03 05:28:09,781 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:09,781 - DEBUG -     Has cache: False
+2026-03-03 05:28:09,782 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:09,782 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:14,791 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:14,791 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:14,792 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:14,792 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:14,792 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:14,793 - DEBUG -     Files found: []
+2026-03-03 05:28:14,793 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:14,793 - DEBUG -     Has cache: False
+2026-03-03 05:28:14,794 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:14,794 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:19,804 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:19,804 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:19,805 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:19,805 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:19,806 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:19,806 - DEBUG -     Files found: []
+2026-03-03 05:28:19,806 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:19,806 - DEBUG -     Has cache: False
+2026-03-03 05:28:19,806 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:19,807 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:24,812 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:24,812 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:24,813 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:24,813 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:24,814 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:24,814 - DEBUG -     Files found: []
+2026-03-03 05:28:24,814 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:24,814 - DEBUG -     Has cache: False
+2026-03-03 05:28:24,814 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:24,815 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:29,818 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:29,818 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:29,819 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:29,819 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:29,820 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:29,820 - DEBUG -     Files found: []
+2026-03-03 05:28:29,820 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:29,820 - DEBUG -     Has cache: False
+2026-03-03 05:28:29,821 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:29,821 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:34,827 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:34,827 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:34,828 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:34,828 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:34,829 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:34,829 - DEBUG -     Files found: []
+2026-03-03 05:28:34,829 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:34,829 - DEBUG -     Has cache: False
+2026-03-03 05:28:34,830 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:34,830 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:39,832 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:39,832 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:39,833 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:39,833 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:39,833 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:39,834 - DEBUG -     Files found: []
+2026-03-03 05:28:39,834 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:39,834 - DEBUG -     Has cache: False
+2026-03-03 05:28:39,834 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:39,835 - DEBUG -   ❌ Invalid: numbered=False, cache=False
+2026-03-03 05:28:44,840 - DEBUG - Searching for Stremio cache...
+2026-03-03 05:28:44,840 - DEBUG -   Checking config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server\server-settings.json
+2026-03-03 05:28:44,841 - DEBUG -     Config found, cacheRoot: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:44,841 - INFO - ✅ Cache from config: C:\Users\AWD\AppData\Roaming\stremio\stremio-server
+2026-03-03 05:28:44,842 - DEBUG -   Checking folder: stremio-cache
+2026-03-03 05:28:44,842 - DEBUG -     Files found: []
+2026-03-03 05:28:44,842 - DEBUG -     Numbered files (0): []
+2026-03-03 05:28:44,843 - DEBUG -     Has cache: False
+2026-03-03 05:28:44,843 - DEBUG -     Has bitfield: False
+2026-03-03 05:28:44,843 - DEBUG -   ❌ Invalid: numbered=False, cache=False
